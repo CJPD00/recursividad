@@ -1,0 +1,21 @@
+{
+  "name": "recursividad-ts",
+  "version": "1.0.0",
+  "description": "Repositorio educativo para aprender recursividad con TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recursion",
+    "typescript",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^24.10.2"
+  }
+}
