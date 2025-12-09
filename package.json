@@ -12,7 +12,7 @@
     "typescript",
     "education"
   ],
-  "author": "",
+  "author": "Carlos Javier Pacheco",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.9.3",

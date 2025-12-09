@@ -12,9 +12,9 @@ En lugar de usar un bucle (`for` o `while`) para repetir una tarea, la función 
 
 ```mermaid
 graph TD
-    A[Inicio: Llamada a Función(n)] --> B{¿Es Caso Base?}
-    B -- Sí --> C[Retornar Valor]
-    B -- No --> D[Llamar a Función(n-1)]
+    A["Inicio: Llamada a Función(n)"] --> B{"¿Es Caso Base?"}
+    B -- "Sí" --> C["Retornar Valor"]
+    B -- "No" --> D["Llamar a Función(n-1)"]
     D --> B
 ```
 

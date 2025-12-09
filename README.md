@@ -65,7 +65,3 @@ node dist/ejemplos/factorial.js
 3. Haz tus cambios y commit (`git commit -m 'Agrega nuevo ejemplo'`).
 4. Push a la rama (`git push origin feature/nuevo-ejemplo`).
 5. Abre un Pull Request.
-
----
-
-Hecho con ❤️ para aprender TypeScript.
